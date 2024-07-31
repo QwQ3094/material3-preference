@@ -10,7 +10,7 @@ object AndroidX {
     //material库api了 appcompat:1.5.0; cardview:1.0.0; constraintlayout:2.0.1; coordinatorlayout:1.1.0;
     //androidx.core.core:1.6.0; drawerlayout:1.1.1; fragment:1.2.5; lifecycle-runtime:2.0.0; recyclerview:1.0.0
     //viewpager2:1.0.0; transition:1.2.0 等库
-    const val material = "com.google.android.material:material:1.7.0"
+    const val material = "com.google.android.material:material:1.9.0"
     const val constraintLayout = "androidx.constraintlayout:constraintlayout:2.0.4"
 
     object Core {
