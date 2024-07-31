@@ -36,7 +36,7 @@ afterEvaluate {
     publishing {
         publications {
             create<MavenPublication>("maven") {
-                groupId = "com.github.knightwood"
+                groupId = "com.github.qwq3094"
                 artifactId = "M3Preference"
                 version = "1.2"
                 from(components.getByName("release"))
